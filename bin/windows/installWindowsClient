@@ -71,7 +71,7 @@ if [[ $? != 0 ]] ; then exit 1; fi
 $GS_HOME/bin/windows/createWindowsTodeImage $repo_path
 if [[ $? != 0 ]] ; then exit 1; fi
 
-$GS_HOME/bin/todeWindowsClient
+$GS_HOME/bin/windows/todeWindowsClient
 
 # End of script
 exit 0
