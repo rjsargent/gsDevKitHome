@@ -3,7 +3,7 @@ TDSessionDescription {
 	#stoneHost : 'galbadia',
 	#stoneName : 'devKit',
 	#gemHost : 'galbadia',
-	#netLDI : 'devKit_ldi',
+	#netLDI : '41420',
 	#gemTask : 'gemnetobject',
 	#userId : 'DataCurator',
 	#password : 'swordfish',
