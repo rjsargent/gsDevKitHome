@@ -1,0 +1,19 @@
+TDSessionDescription {
+	#name : 'devKit',
+	#stoneHost : 'galbadia',
+	#stoneName : 'devKit',
+	#gemHost : 'galbadia',
+	#netLDI : '41420',
+	#gemTask : 'gemnetobject',
+	#userId : 'DataCurator',
+	#password : 'swordfish',
+	#osUserId : nil,
+	#osPassword : nil,
+	#dataDirectory : nil,
+	#backupDirectory : '/export/galbadia1/users/rsargent/gsDevKitHome/gemstone/stones/devKit/backups/',
+	#gemstoneVersion : '3.2.6',
+	#gciLibraryName : nil,
+	#adornmentColor : nil,
+	#serverGitRoot : '/export/galbadia1/users/rsargent/gsDevKitHome/gemstone/stones/devKit/git',
+	#serverTodeRoot : '/export/galbadia1/users/rsargent/gsDevKitHome/tode'
+}
